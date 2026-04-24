@@ -137,7 +137,7 @@ Deploy mobile version
 Name — Role
 
 Example:
-Brian Bazurto — Software Engineer
+Team Member 1 — Software Engineer
 
 ---
 
