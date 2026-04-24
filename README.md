@@ -1,10 +1,3 @@
-README.md
-/devpost/README.md
-/prototype/README.md
-/presentation/README.md
-/demo-video/README.md
-
-
 # Project Name
 
 One sentence description of your project.
@@ -14,7 +7,36 @@ An AI-powered assistant that helps students generate flashcards from lecture not
 
 ---
 
-## Inspiration
+# Repository Structure
+
+This repository is organized to support a complete hackathon submission workflow.
+
+README.md
+/devpost/README.md
+/prototype/README.md
+/presentation/README.md
+/demo-video/README.md
+
+Each file serves a specific purpose during evaluation:
+
+README.md
+Main project overview and technical explanation
+
+/devpost/README.md
+Prepared content for Devpost submission
+
+/prototype/README.md
+Setup instructions and implementation details
+
+/presentation/README.md
+Slide structure and speaking guide
+
+/demo-video/README.md
+Demo recording script and structure
+
+---
+
+# Inspiration
 
 What problem does your project solve?
 
@@ -28,7 +50,7 @@ Students spend too much time organizing notes instead of studying them.
 
 ---
 
-## What It Does
+# What It Does
 
 Describe what your application does.
 
@@ -37,56 +59,102 @@ The application converts lecture notes into structured flashcards using AI.
 
 ---
 
-## How We Built It
+# How We Built It
 
-### Frontend
-- React / Flutter / Streamlit
+## Frontend
 
-### Backend
-- Node.js / Python / Firebase
+List tools used
 
-### APIs
-- OpenAI
-- Google Cloud
+Examples:
+React
+Flutter
+Streamlit
 
-### Tools
-- GitHub
-- Figma
+## Backend
+
+List tools used
+
+Examples:
+Node.js
+Python
+Firebase
+
+## APIs
+
+Examples:
+OpenAI
+Google Cloud
+
+## Tools
+
+Examples:
+GitHub
+Figma
 
 ---
 
-## Challenges We Ran Into
+# Challenges We Ran Into
+
+Describe technical or design challenges your team faced.
 
 Example:
 Authentication integration and database synchronization.
 
 ---
 
-## Accomplishments That We're Proud Of
+# Accomplishments That We're Proud Of
+
+Describe major achievements during development.
 
 Example:
 Successfully deployed a working AI-powered prototype.
 
 ---
 
-## What We Learned
+# What We Learned
+
+Describe technical or collaboration lessons learned.
 
 Example:
 Working with APIs in real-time applications.
 
 ---
 
-## What's Next
+# What's Next
 
-- Add user accounts
-- Improve UI
-- Deploy mobile version
+Future improvements planned after the hackathon.
+
+Examples:
+
+Add user accounts
+Improve UI
+Deploy mobile version
 
 ---
 
-## Team Members
+# Team Members
 
 Name — Role
 
 Example:
 Brian Bazurto — Software Engineer
+
+---
+
+# Hackathon Submission Files
+
+This project includes supporting documentation for multiple submission components:
+
+devpost/README.md
+Contains the Devpost write-up
+
+prototype/README.md
+Contains setup instructions and implementation details
+
+presentation/README.md
+Contains slide structure and presentation talking points
+
+demo-video/README.md
+Contains demo recording script and timing guide
+
+These supporting files help judges quickly understand the project workflow and evaluation materials.
