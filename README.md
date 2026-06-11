@@ -205,8 +205,4 @@ Check everything off before the deadline:
 ---
 
 <p align="center"><strong>Built with ❤️ by the Hack University community. No prior experience required — just show up and build.</strong></p>
-Deploy mobile version
-Team Members
-Name — Role
 
-Example: Team Member 1 — Software Engineer
