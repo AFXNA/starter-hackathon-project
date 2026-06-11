@@ -15,15 +15,28 @@ Welcome! This template gives you **everything judges expect in a submission**, a
 4. Put your code in the repo and fill in the 4 guides below as you go.
 5. Submit your repo link on Devpost before the deadline. Done! ✅
 
-**Your submission needs 5 things** — this template covers all of them:
+---
 
-| # | Component | Where | Guide |
-|---|-----------|-------|-------|
-| 1 | Project code + README | This repo | You are here 📍 |
-| 2 | Devpost write-up | [devpost/README.md](devpost/README.md) | Copy-paste ready content for Devpost |
-| 3 | Working prototype | [prototype/README.md](prototype/README.md) | Setup & run instructions |
-| 4 | Presentation slides | [presentation/README.md](presentation/README.md) | Slide structure + speaking guide |
-| 5 | Demo video (2–3 min) | [demo-video/README.md](demo-video/README.md) | Recording script + timing |
+## 🗺 Repository Map
+
+```
+starter-hackathon-project/
+├── README.md            ← your project's front page (this file — fill it in!)
+├── devpost/             ← 🏆 how to submit on Devpost + write-up template
+├── prototype/           ← ⚙️ how to document setup so judges can run your code
+├── presentation/        ← 🎤 8-slide pitch structure + speaking guide
+└── demo-video/          ← 🎬 2-minute video script + recording playbook
+```
+
+**Your submission needs 5 things** — each one has a full guide:
+
+| # | Component | Guide | What's inside |
+|---|-----------|-------|---------------|
+| 1 | Project code + README | You are here 📍 | Fill-in template below |
+| 2 | Devpost write-up | [devpost/README.md](devpost/README.md) | Step-by-step submission + copy-paste write-up template |
+| 3 | Working prototype | [prototype/README.md](prototype/README.md) | Setup docs, .env safety, judge-proof fallbacks |
+| 4 | Presentation | [presentation/README.md](presentation/README.md) | 8-slide structure, timing, Q&A prep, demo insurance |
+| 5 | Demo video (2–3 min) | [demo-video/README.md](demo-video/README.md) | Timestamped script, recording & upload checklist |
 
 > 💡 **Tip:** A simple, working, well-explained project beats a complex, broken one. Clarity over complexity — always.
 
